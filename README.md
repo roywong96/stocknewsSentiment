@@ -3,4 +3,4 @@ This program helps predict if the stock price of a company will increase or decr
 
 # References
 
-**Dataset:** [Daily News for Stock Market Predictions]https://www.kaggle.com/aaron7sun/stocknews
+**Dataset:** [Daily News for Stock Market Predictions](https://www.kaggle.com/aaron7sun/stocknews)
