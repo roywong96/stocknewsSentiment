@@ -13,8 +13,10 @@ This project helps predict if the stock price of a company will increase or decr
 # Data Cleaning
 
 
-
 # Exploratory Data Analysis
+
+
+# Feature Engineering
 
 
 # Model Building
