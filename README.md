@@ -12,6 +12,13 @@ This project helps predict if the stock price of a company will increase or decr
 
 # Data Cleaning
 
+Two of the datasets are mainly used: </br>
+- Top News dataset which consists of 1989 rows and 27 columns; and the other is 
+- Dow Jones Industrial Average Stock Prices dataset which has 1989 rows and 7 columns.
+
+
+
+
 
 # Exploratory Data Analysis
 
