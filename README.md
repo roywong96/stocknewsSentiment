@@ -7,7 +7,8 @@ This project helps predict if the stock price of a company will increase or decr
 **Packages:** numpy, pandas, seaborn, matplotlib, VaderSentiment</br>
 **Dataset:** [Daily News for Stock Market Predictions](https://www.kaggle.com/aaron7sun/stocknews) obtained from Kaggle </br>
 **Dow Jones Stock Market News and Data:** [Dow Jones Industrial Average](https://au.finance.yahoo.com/quote/%5EDJI?p=%5EDJI&.tsrc=fin-srch)</br>
-**Article:** [VaderSentiment Article](https://towardsdatascience.com/sentimental-analysis-using-vader-a3415fef7664)</br>
+**VaderSentiment Article:** [VaderSentiment Article](https://towardsdatascience.com/sentimental-analysis-using-vader-a3415fef7664)</br>
+**Sentiment Analysis Article** [Subjectivity and Polarity](https://www.analyticsvidhya.com/blog/2018/02/natural-language-processing-for-beginners-using-textblob/)</br>
 **Linear Discriminant Analysis for Stocks:** [Stock Market Movement Prediction using LDA](https://ieeexplore.ieee.org/document/8441038)</br>
 **Text Normalization Article:** [NLP Essentials](https://www.analyticsvidhya.com/blog/2019/08/how-to-remove-stopwords-text-normalization-nltk-spacy-gensim-python/)</br>
 
