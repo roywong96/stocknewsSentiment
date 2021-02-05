@@ -21,7 +21,7 @@ This project aims to predict if the stock price of a company will increase or de
   - Top News dataset which consists of 1989 rows and 27 columns;
   - Dow Jones Industrial Average Stock Prices dataset which has 1989 rows and 7 columns.
 - Combined and cleaned all texts from all 24 columns of the top news headlines. 
-- Two functions were created to obtain the Subjectivity and Polarity of the text Sentiment 
+- Two functions were created to obtain the Subjectivity and Polarity of the text sentiment 
 
 
 # Exploratory Data Analysis
