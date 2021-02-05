@@ -7,10 +7,12 @@ This project aims to predict if the stock price of a company will increase or de
 **Packages:** numpy, pandas, seaborn, matplotlib, VaderSentiment, TextBlob</br>
 **Dataset:** [Daily News for Stock Market Predictions](https://www.kaggle.com/aaron7sun/stocknews) obtained from Kaggle </br>
 **Dow Jones Stock Market News and Data:** [Dow Jones Industrial Average](https://au.finance.yahoo.com/quote/%5EDJI?p=%5EDJI&.tsrc=fin-srch)</br>
+**Stock Prices Article** [What Is the Significance of a Closing Price on a Stock?](https://finance.zacks.com/significance-closing-price-stock-3007.html)</br>
 **VaderSentiment Article:** [VaderSentiment Article](https://towardsdatascience.com/sentimental-analysis-using-vader-a3415fef7664)</br>
 **Sentiment Analysis Article** [Subjectivity and Polarity](https://www.analyticsvidhya.com/blog/2018/02/natural-language-processing-for-beginners-using-textblob/)</br>
 **Linear Discriminant Analysis for Stocks:** [Stock Market Movement Prediction using LDA](https://ieeexplore.ieee.org/document/8441038)</br>
 **Text Normalization Article:** [NLP Essentials](https://www.analyticsvidhya.com/blog/2019/08/how-to-remove-stopwords-text-normalization-nltk-spacy-gensim-python/)</br>
+
 
 
 # Data Cleaning
@@ -23,6 +25,10 @@ This project aims to predict if the stock price of a company will increase or de
 
 
 # Exploratory Data Analysis
+
+I looked at the overall Closing Price for the Dow Jones Industrial Average Stock Price from 2008-2016. The reason is because the Closing Price is the considered to be more signficant. Usually, investors, traders, financial institutions, regulators and other stakeholders use it as a reference point for determining performance over a specific time
+
+
 
 
 
