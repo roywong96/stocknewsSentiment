@@ -9,6 +9,7 @@ This project helps predict if the stock price of a company will increase or decr
 **Dow Jones Stock Market News and Data:** [Dow Jones Industrial Average](https://au.finance.yahoo.com/quote/%5EDJI?p=%5EDJI&.tsrc=fin-srch)</br>
 **Article:** [VaderSentiment Article](https://towardsdatascience.com/sentimental-analysis-using-vader-a3415fef7664)</br>
 **Linear Discriminant Analysis for Stocks:** [Stock Market Movement Prediction using LDA](https://ieeexplore.ieee.org/document/8441038)</br>
+**Text Normalization Article:** [NLP Essentials](https://www.analyticsvidhya.com/blog/2019/08/how-to-remove-stopwords-text-normalization-nltk-spacy-gensim-python/)</br>
 
 
 # Data Cleaning
@@ -20,8 +21,9 @@ Two of the datasets are mainly used: </br>
 
 
 
-
 # Exploratory Data Analysis
+
+
 
 
 # Feature Engineering
