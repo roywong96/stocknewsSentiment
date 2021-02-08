@@ -26,7 +26,8 @@ This project aims to predict if the stock price of a company will increase or de
 
 # Exploratory Data Analysis
 
-I looked at the overall Closing Price for the Dow Jones Industrial Average Stock Price from 2008-2016. The reason is because the Closing Price is the considered to be more signficant. Usually, investors, traders, financial institutions, regulators and other stakeholders use it as a reference point for determining performance over a specific time
+- Looked at the overall **Closing Price** for the Dow Jones Industrial Average Stock Price from 2008-2016.</br>
+  - Closing Price is the considered to be more signficant as investors, traders, financial institutions, regulators and other stakeholders use it as a reference point for determining performance over a specific time
 
 
 
