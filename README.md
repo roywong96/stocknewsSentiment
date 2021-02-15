@@ -37,8 +37,7 @@ This project aims to predict if the stock price of a company will increase or de
 - Looked at the overall **Closing Price** for the Dow Jones Industrial Average Stock Price from 2008-2016.</br>
   - Closing Price is the considered to be more signficant as investors, traders, financial institutions, regulators and other stakeholders use it as a reference point for determining performance over a specific time.
   
-![](DJprices.png)
-
+![]((https://github.com/roywong96/stocknewsSentiment/blob/master/images/DJprices.png)
 
 
 # Model Building
