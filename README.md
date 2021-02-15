@@ -3,8 +3,8 @@ This project aims to predict if the stock price of a company will increase or de
 
 # Overview
 
-- Two datasets: one is the Top News dataset and the other is Dow Jones Industrial Average Stock Prices dataset.
-- Combined the datasets and split them into 2008-08-08 to 2014-12-31 is the train and from 2015-01-02 to 2016-07-01 is the test set which is approximately 80% to 20% split. 
+- Two datasets: one is the Top News dataset and the other is Dow Jones Industrial Average Stock Prices dataset obtained from Kaggle.
+- Combined the datasets and split them into training set (from 2008-08-08 to 2014-12-31) and the test set (from 2015-01-02 to 2016-07-01) which is approximately 80% to 20% split. 
 
 
 # References
