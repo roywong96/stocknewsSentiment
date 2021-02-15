@@ -29,8 +29,11 @@ This project aims to predict if the stock price of a company will increase or de
 - Combined and cleaned all texts from all 24 columns of the top news headlines and place it as a new feature. 
 - Two functions were created to obtain the Subjectivity (i.e. 0 to 1) and Polarity (i.e. -1 to 1) of the text sentiment.
 - These functions are to classify text as positive or negative and determining how subjective it is
-- Using SentimentIntensityAnalyzer, created new features of 
-
+- Using SentimentIntensityAnalyzer, created new features for the Sentiment Intensity the Combined_news such as:
+  - Compound
+  - Positive
+  - Negative
+  - Neutral
 
 # Exploratory Data Analysis
 
