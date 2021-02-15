@@ -1,6 +1,12 @@
 # Stock News Sentiment
 This project aims to predict if the stock price of a company will increase or decrease based on top news headlines
 
+# Overview
+
+- Two datasets: one is the Top News dataset and the other is Dow Jones Industrial Average Stock Prices dataset.
+- Combined the datasets and split them into 2008-08-08 to 2014-12-31 is the train and from 2015-01-02 to 2016-07-01 is the test set which is approximately 80% to 20% split. 
+
+
 # References
 
 **Python Version:** 3.8</br>
@@ -20,24 +26,17 @@ This project aims to predict if the stock price of a company will increase or de
 - Two of the datasets are mainly used: </br>
   - Top News dataset which consists of 1989 rows and 27 columns;
   - Dow Jones Industrial Average Stock Prices dataset which has 1989 rows and 7 columns.
-- Combined and cleaned all texts from all 24 columns of the top news headlines. 
-- Two functions were created to obtain the Subjectivity and Polarity of the text sentiment 
+- Combined and cleaned all texts from all 24 columns of the top news headlines and place it as a new feature. 
+- Two functions were created to obtain the Subjectivity (i.e. 0 to 1) and Polarity (i.e. -1 to 1) of the text sentiment.
+- These functions are to classify text as positive or negative and determining how subjective it is
+- Using SentimentIntensityAnalyzer, created new features of 
 
 
 # Exploratory Data Analysis
 
 - Looked at the overall **Closing Price** for the Dow Jones Industrial Average Stock Price from 2008-2016.</br>
-  - Closing Price is the considered to be more signficant as investors, traders, financial institutions, regulators and other stakeholders use it as a reference point for determining performance over a specific time
+  - Closing Price is the considered to be more signficant as investors, traders, financial institutions, regulators and other stakeholders use it as a reference point for determining performance over a specific time.
 
-
-
-
-
-
-# Feature Engineering
-
-- As mentioned above, new feature is created "Combined_News" where texts from all the top news headlines were cleaned and combined.
-- 
 
 
 # Model Building
