@@ -5,7 +5,7 @@ This project aims to predict if the stock price of a company will increase or de
 
 - Two datasets: one is the Top News dataset and the other is Dow Jones Industrial Average Stock Prices dataset obtained from Kaggle.
 - Combined the datasets and splitting them into training (from 2008-08-08 to 2014-12-31) and the test set (from 2015-01-02 to 2016-07-01) which is approximately 80% to 20% split. 
-- Data is tested with several different classifiers such asGaussian Naive Bayes, Support Vector Classifier, Random Forest Classifier, Decision Tree Classifier and *Linear Discriminant Analysis*
+- Data is tested with several different classifiers such asGaussian Naive Bayes, Support Vector Classifier, Random Forest Classifier, Decision Tree Classifier and Linear Discriminant Analysis.
 
 
 # References
