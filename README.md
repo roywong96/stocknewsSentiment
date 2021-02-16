@@ -46,6 +46,19 @@ This project aims to predict if the stock price of a company will increase or de
 
 # Model Building
 
+After combining, the datasets is split into training (from 2008-08-08 to 2014-12-31) and the test set (from 2015-01-02 to 2016-07-01) which is approximately 80% to 20% split. 
+
+I have tried several different models and evaluated them with classification report from the Scikit Learn library as I am comparing my predictions with the test data.
+
+Classifiers I have tried with is:
+
+**Gaussian Naive Bayes**
+**Support Vector Classifier**
+**Random Forest Classifier**
+**Decision Tree Classifier**
+**Linear Discriminant Analysis**
+
+
 
 # Model Performance
 
