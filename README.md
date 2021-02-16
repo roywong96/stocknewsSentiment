@@ -52,11 +52,11 @@ I have tried several different models and evaluated them with classification rep
 
 Classifiers I have tried with is:
 
-**Gaussian Naive Bayes**
-**Support Vector Classifier**
-**Random Forest Classifier**
-**Decision Tree Classifier**
-**Linear Discriminant Analysis**
+**Gaussian Naive Bayes**</br>
+**Support Vector Classifier**</br>
+**Random Forest Classifier**</br>
+**Decision Tree Classifier**</br>
+**Linear Discriminant Analysis**</br>
 
 
 
